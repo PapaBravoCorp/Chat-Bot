@@ -12,9 +12,9 @@ You will also need the host and path for the token and authorization endpoints f
 
 To install the dependencies for the chat bot, run the following command:
 
-``` npm install
-
-
+``` 
+  npm install
+```
 ## Usage
 
 To use the chat bot, create an instance of the `OutlookChatBot` class and pass the client ID, client secret, token host, authorize path, and token path as parameters to the constructor.
